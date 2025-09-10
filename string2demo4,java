@@ -1,0 +1,15 @@
+class string2demo4
+{
+	public static void main(String args[])
+	{
+		//valueof covert into string any type of data
+		
+		int x = 100;
+		String s1 = String.valueof(x)
+		System.ouyt.println(s1);
+		
+		float f = 105.5f;
+		String s3 = String.valueof(f)
+		System.ouyt.println(s3);
+	}
+}
